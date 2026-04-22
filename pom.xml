@@ -15,7 +15,7 @@
     <artifactId>recetas-service</artifactId>
     <version>1.0.0</version>
     <name>recetas-service</name>
-    <description>Microservicio de Recetas con Spring Boot</description>
+    <description>Microservicio de Recetas</description>
 
     <properties>
         <java.version>17</java.version>

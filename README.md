@@ -1,6 +1,4 @@
 
-
-
 ##  Requisitos
 
 Herramienta  y Versión mínima 
@@ -21,7 +19,7 @@ localhost: **http://localhost:8081**
 
 
 
-## 📡 Endpoints disponibles
+##  Endpoints disponibles
 
 
 GET  /recetas                        
