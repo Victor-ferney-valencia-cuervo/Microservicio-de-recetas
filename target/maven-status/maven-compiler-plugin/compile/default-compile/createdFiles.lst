@@ -1,0 +1,5 @@
+com\recetas\service\RecetaService.class
+com\recetas\RecetasApplication.class
+com\recetas\SwaggerConfig.class
+com\recetas\controller\RecetaController.class
+com\recetas\model\Receta.class
