@@ -9,7 +9,7 @@ Ahora las URL son públicas, lo que significa que cualquier persona puede accede
 
 # Endpoints de recetas !!
 
-https://microservicio-de-recetas-production.up.railway.app/recetas
+- https://microservicio-de-recetas-production.up.railway.app/recetas
 
 
 
@@ -19,7 +19,7 @@ https://microservicio-de-recetas-production.up.railway.app/recetas
 
 
 
-#pasado
+# pasado
 ##  Requisitos
 
 Herramienta  y Versión mínima 
