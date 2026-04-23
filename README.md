@@ -54,3 +54,17 @@ const sopas = await res.json();
 ```
 
 >  CORS está habilitado para todos los orígenes (`@CrossOrigin("*")`).
+
+
+# actualizacion!!!
+
+Se desplegó la API en la plataforma Railway.
+Ahora las URL son públicas, lo que significa que cualquier persona puede acceder a ellas.s
+
+# Swagger UI !!
+
+- https://microservicio-de-recetas-production.up.railway.app/swagger-ui/index.html
+
+# Endpoints de recetas !!
+
+https://microservicio-de-recetas-production.up.railway.app/recetas
